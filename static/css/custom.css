@@ -11,6 +11,10 @@
     text-decoration: none;
 }
 
+.project > .feature-inner {
+    transition: 0.2s;
+}
+
 .project:hover > .feature-inner {
-    padding-top: 35px;
+    padding-top: 32px;
 }
