@@ -1,0 +1,16 @@
+.center {
+    display: inline-block;
+    margin: auto;
+}
+
+.center-link {
+    text-decoration: none;
+}
+
+.project {
+    text-decoration: none;
+}
+
+.project:hover > .feature-inner {
+    padding-top: 35px;
+}
